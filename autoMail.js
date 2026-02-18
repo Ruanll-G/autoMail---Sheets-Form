@@ -33,8 +33,8 @@ function aoEnviarFormulario(e) {
   const sheet = e.range.getSheet();
   const linha = e.range.getRow();
 
-  const colunaStatus = 1;
-  const colunaEmail = 3;
+  const colunaStatus = 1; // COLUNA DE VERIFICAÇÃO SE FOI ENVIADO OU NÃO O EMAIL
+  const colunaEmail = 3; // COLUNA DO EMAIL RECEBIDO POR FORMULÁRIO
 
   const rangeStatus = sheet.getRange(linha, colunaStatus);
   const cor = rangeStatus.getBackground().toLowerCase();
