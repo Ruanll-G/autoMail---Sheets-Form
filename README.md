@@ -11,3 +11,5 @@ Após colocar o código dentro do AppScript da Planilha crie um Acionador/Trigge
 # Importante!!
 
 O código foi feito para se utilizar Alias, então certifique-se que o Alias desejado realmente tenha permissão para mandar email dentro de sua conta.
+
+LEITURA FEITA
