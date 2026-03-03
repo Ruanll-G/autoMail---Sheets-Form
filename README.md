@@ -4,9 +4,9 @@ Dentro de "autoMail.js" contém um script para o Google Sheets Planilhas com uma
 
 # Como colocar na Planilha
 
-Para adicionar essa automação, abra o arquivo de "autoMail.js", copie o script dentro dele e insera dentro do AppScript da Planilha que você deseja.
+Para adicionar essa automação, abra o arquivo de "autoMail.js", copie o script dentro dele e insira dentro do AppScript da Planilha que você deseja.
 Faça as devidas edições no código HTML dentro do código para seu caso de mensagem.
-Após colocar o código dentro do AppScript da Planilha crie um Acionador/Trigger para iniciar o processo. Quando colocar a função para iniciar a automação coloque o gatilho para a função: aoEnviarFormulario.
+Após colocar o código dentro do AppScript da Planilha, crie um Acionador/Trigger para iniciar o processo. Quando colocar a função para iniciar a automação coloque o gatilho para a função: aoEnviarFormulario.
 
 # Importante!!
 
