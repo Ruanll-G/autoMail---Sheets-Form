@@ -3,7 +3,7 @@
 Dentro de "autoMail.js" contém um script para o Google Sheets Planilhas com uma automação de envio de email automático de acordo com as respostas de um formulário, vinculada junto a planilha.
 
 ![GIF](assets/images/email-fim.gif)
-<img src="assets/images/Image-Email.jpeg" width="auto" height="100">
+<img src="assets/images/Image-Email.jpeg" width="auto" height="600">
 
 # Como colocar na Planilha
 
